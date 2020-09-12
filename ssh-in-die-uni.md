@@ -6,7 +6,8 @@ Vielleicht hast du mal im Linuxpool in der Uni gesessen, und Hausaufgaben gemach
 Vielleicht benutzt du selbst kein Linux, aber musst für Verteilte Systeme irgendwelche Middleware installieren?    
 Kein Bock Python und Java aufm Heimrechner zu installieren ?   
   
-So sorge nicht. Das alles kann man ja per SSH im Informatiknetz machen. Geht auch relativ fix.  
+So sorge nicht. Das alles kann man ja per SSH im Informatiknetz machen. Geht auch relativ fix.   
+Man brauch aber einen zusätzlichen _**Informatikaccount**_. \([https://www.informatik.uni-rostock.de/it-service/informationen/nutzeraccount/](https://www.informatik.uni-rostock.de/it-service/informationen/nutzeraccount/)\)  
 \(Ich frag mich immernoch, warum man das Remote-Desktop-Protokoll nicht im Linuxpool installiert hat.\)
 
 ### SSH installieren. 
