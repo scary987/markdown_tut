@@ -50,16 +50,22 @@ Wie der Name sagt, wird ein gesicherter Shellzugriff geöffnet. Falls du nicht w
 
 ```text
 ssh <KÜRZEL>@honshu.informatik.uni-rostock.de
+
+#Do Something
+
+exit #SSH beenden
 ```
 
 ### SFTP
 
-Das wird tatsächlich benötigt um Dateien vom eigenem Rechner und dem Uniserver hin- und herzuschieben. Ähnlich wie SSH, aber man kann nur Dateien verschieben, hoch- \(put\) und runterladen. \(get\)  
+Das wird tatsächlich benötigt um Dateien vom eigenem Rechner und dem Uniserver hin- und herzuschieben. Ähnlich wie SSH, aber man kann nur Dateien verschieben, hoch- \(put\) und runterladen. \(get\)   
+Ansonsten einfach mal ins Manual gucken: [https://linux.die.net/man/1/sftp](https://linux.die.net/man/1/sftp)
 
 ```text
 sftp <KÜRZEL>@honshu.informatik.uni-rostock.de
 cd SOMEWHERE 
 put Meins Server
 get Meins HeimPC
+exit #SFTP beenden
 ```
 
