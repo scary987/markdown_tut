@@ -19,5 +19,18 @@ Für folgende Betriebssysteme:
 
 #### Windows
 
+Für Windows 10+ könnt ihr SSH mit PowerShell benutzen. Einfach das benutzen.  
+Ich glaube das gilt auch für neue Versionen von Windows 7 mit geupdateter PowerShell, bin mit aber nicht sicher.  
+Ansonsten muss man Putty verwenden und installieren. \([https://www.putty.org/](https://www.putty.org/)\)  
+
+
+#### MacOS
+
+Hier sollte SSH schon vorinstalliert sein. Ansonsten im Terminal:
+
+```text
+#Danach für alle Betriebssysteme gleich
+```
+
 
 
