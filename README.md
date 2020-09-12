@@ -60,7 +60,7 @@ Danach wird dich das Programm nach Nutzername und Password fragen. Hier dein 5-s
 
 Danach solltest du eine UniIP haben und direkt Springerlinks besuchen können und so.   
   
-Um OpenConnect zu schließen, einfach STRG+C im Terminal drücken, oder den Terminal so schließen.
+Um OpenConnect zu beenden, einfach STRG+C im Terminal drücken, oder den Terminal so schließen.
 
   
 
