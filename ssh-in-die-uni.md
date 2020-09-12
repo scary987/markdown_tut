@@ -1,4 +1,4 @@
-# SSH in die UNI
+# SSH/SFTP in die UNI
 
 ## Warum SSH in die UNI? 
 
@@ -43,5 +43,15 @@ Hier sollte SSH schon vorinstalliert sein. Ansonsten im Terminal:
     brew install openssh
 ```
 
+### SSH
 
+```text
+ssh <KÜRZEL>@honshu.informatik.uni-rostock.de
+```
+
+### SFTP
+
+```text
+sftp tr318@honshu.informatik.uni-rostock.de
+```
 
