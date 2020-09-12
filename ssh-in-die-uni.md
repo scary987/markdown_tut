@@ -45,13 +45,21 @@ Hier sollte SSH schon vorinstalliert sein. Ansonsten im Terminal:
 
 ### SSH
 
+Wie der Name sagt, wird ein gesicherter Shellzugriff geöffnet. Falls du nicht weißt, wie man den bedient, Tutorials und Cheatsheets gibt es wie Sand am Meer. Hier ein gutes:  
+[https://www2.icp.uni-stuttgart.de/~icp/mediawiki/images/b/bd/Sim\_Meth\_I\_T0\_cheat\_sheet\_10\_11.pdf](https://www2.icp.uni-stuttgart.de/~icp/mediawiki/images/b/bd/Sim_Meth_I_T0_cheat_sheet_10_11.pdf)
+
 ```text
 ssh <KÜRZEL>@honshu.informatik.uni-rostock.de
 ```
 
 ### SFTP
 
+Das wird tatsächlich benötigt um Dateien vom eigenem Rechner und dem Uniserver hin- und herzuschieben. Ähnlich wie SSH, aber man kann nur Dateien verschieben, hoch- \(put\) und runterladen. \(get\)  
+
 ```text
-sftp tr318@honshu.informatik.uni-rostock.de
+sftp <KÜRZEL>@honshu.informatik.uni-rostock.de
+cd SOMEWHERE 
+put Meins Server
+get Meins HeimPC
 ```
 
