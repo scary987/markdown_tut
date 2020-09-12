@@ -21,8 +21,18 @@ Für folgende Betriebssysteme:
 
 Für Windows 10+ könnt ihr SSH mit PowerShell benutzen. Einfach das benutzen.  
 Ich glaube das gilt auch für neue Versionen von Windows 7 mit geupdateter PowerShell, bin mit aber nicht sicher.  
-Ansonsten muss man Putty verwenden und installieren. \([https://www.putty.org/](https://www.putty.org/)\)  
+Ansonsten muss man Putty verwenden und installieren. \([https://www.putty.org/](https://www.putty.org/)\)
 
+#### Linux \(Arch, Debian\)
+
+Für beide Distributionen sollte SSH schon vorinstalliert sein. Falls doch nicht:
+
+```text
+#Arch, Manjaro etc.
+    sudo pacman -Sy openssh
+#Debian, Ubuntu, Mint etc.
+    sudo apt update && sudo apt install openssh-client 
+```
 
 #### MacOS
 
