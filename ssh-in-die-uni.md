@@ -29,7 +29,8 @@ Ansonsten muss man Putty verwenden und installieren. \([https://www.putty.org/](
 Hier sollte SSH schon vorinstalliert sein. Ansonsten im Terminal:
 
 ```text
-#Danach für alle Betriebssysteme gleich
+#brew muss installiert sein: https://brew.sh/index_de
+    brew install openssh
 ```
 
 
