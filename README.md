@@ -42,7 +42,7 @@ Danach wird dich das Programm nach Nutzername und Password fragen. Hier dein 5-s
 
 
 
-#### B
+#### Linux \(Arch, Debian\) & Mac
 
   
 
